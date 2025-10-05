@@ -30,11 +30,6 @@ Where to look:
 - `src/games/tictactoe/TicTacToe.hpp/.cpp` — Tic-Tac-Toe rules and evaluation
 - `src/main.cpp` — console app
 
-## Suggested PR split
-- Beginner PR: engine interface + minimax + setup files
-- Intermediate PR: Tic-Tac-Toe game + CLI
-- Advanced PR: heuristic tweaks, CI (optional)
-
 ## Requirements
 - CMake ≥ 3.16
 - C++17 compiler
