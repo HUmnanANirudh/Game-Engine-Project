@@ -1,7 +1,8 @@
-# Tic-Tac-Toe AI (C++)
+# Game AI Engine (C++)
 
-Simple C++ project that plays Tic-Tac-Toe using Minimax + Alpha-Beta pruning.
-The engine is generic: any game that implements the same interface can plug in (not only chess).
+A modular C++ framework for building and experimenting with AI-driven, turn-based games using classic game theory algorithms such as Minimax and Alpha-Beta Pruning.
+
+Currently, it includes a working Tic-Tac-Toe implementation as a demo, but the engine is designed to support multiple games through a simple and reusable interface.
 
 ## Quick Start
 ```bash
